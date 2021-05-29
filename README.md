@@ -1,7 +1,7 @@
 # JavaScript Class Extension Lab: `extends`
 
 ## Learning Goals
-
+ 
 1. Practice writing JavaScript classes that inherit from other classes
 
 ## Introduction
